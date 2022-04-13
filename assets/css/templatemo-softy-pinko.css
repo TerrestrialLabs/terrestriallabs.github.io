@@ -845,6 +845,13 @@ games
   width: 300px;
 }
 
+@media (max-width: 991px) {
+  .poster-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+}
+
 /* 
 ---------------------------------------------
 parallax & home seperator
